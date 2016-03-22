@@ -1,5 +1,5 @@
 {
-  "name": "botkit",
+  "name": "@phated/botkit",
   "version": "0.0.11",
   "description": "Building blocks for Building Bots",
   "main": "lib/Botkit.js",
